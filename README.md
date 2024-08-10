@@ -1,7 +1,7 @@
 # Ferhat Samet Kalkan
 # Açelya Ünal
 
-# Personal Trainer Web Application
+## Personal Trainer Web Application
 
 ## Overview
 

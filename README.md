@@ -1,4 +1,4 @@
-## Personal Trainer Web Application
+### Personal Trainer Web Application
 
 ## Overview
 

@@ -27,5 +27,3 @@ The Personal Trainer Web Application is a web-based platform designed to help us
 - OpenCV
 - MediaPipe
 - SQLite
-
-## Setup Instructions
